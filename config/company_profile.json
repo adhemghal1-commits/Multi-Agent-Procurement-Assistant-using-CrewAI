@@ -1,0 +1,33 @@
+{
+  "company_name": "Apex Horizon Technologies",
+  "industry": "B2B SaaS & Cloud Engineering",
+  "department": "IT & Operations",
+  "budget_max_usd": 1800.0,
+  "quantity": 15,
+  "required_specs": [
+    "Minimum 16GB RAM",
+    "Minimum 512GB NVMe SSD",
+    "Modern multi-core processor (Intel Core Ultra / AMD Ryzen 7 / Apple M3+)",
+    "14-inch or 15-inch anti-glare display",
+    "Wi-Fi 6E or Wi-Fi 7"
+  ],
+  "preferred_vendors": [
+    "Dell",
+    "Lenovo",
+    "CDW",
+    "B&H Photo",
+    "Amazon Business"
+  ],
+  "excluded_vendors": [
+    "eBay",
+    "AliExpress"
+  ],
+  "warranty_min_months": 24,
+  "evaluation_weights": {
+    "price": 0.35,
+    "specs": 0.40,
+    "value": 0.25
+  },
+  "compliance_notes": "Must include VAT/tax invoice capability, US/EU power adapter options, and at least 2-year on-site or next-business-day business warranty."
+}
+
